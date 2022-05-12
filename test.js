@@ -11,5 +11,6 @@
 
 (function() {
     console.log('start!')
+    console.log('update')
     console.log('end!')
 })();
