@@ -1,5 +1,5 @@
 (function() {
-    $('.abc').each(function (index, element) {
+    $('.btn_wr.s_btn_wr.bg').each(function (index, element) {
         console.log('yes each')
         return false
     })
