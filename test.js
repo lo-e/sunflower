@@ -7,7 +7,6 @@
 // @match        https://www.baidu.com*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
-// @run-at      document-start
 // ==/UserScript==
 
 (function() {
