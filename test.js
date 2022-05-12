@@ -10,5 +10,5 @@
 // ==/UserScript==
 
 (function() {
-    console.log('v0.0.4')
-})
+    console.log('v0.0.6')
+})()
