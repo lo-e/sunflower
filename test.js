@@ -11,5 +11,6 @@
 // ==/UserScript==
 
 (function() {
-    console.log('start')
+    console.log('start!')
+    console.log('end!')
 })();
